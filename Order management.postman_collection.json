@@ -43,7 +43,7 @@
 			"response": []
 		},
 		{
-			"name": "Create order",
+			"name": "Create orders",
 			"event": [
 				{
 					"listen": "test",
